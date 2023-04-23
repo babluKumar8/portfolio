@@ -104,11 +104,11 @@ img.vert-move {
 }
 @-webkit-keyframes mover {
     0% { transform: translateY(0); }
-    100% { transform: translateY(-40px); }
+    100% { transform: translateY(-30px); }
 }
 @keyframes mover {
     0% { transform: translateY(0); }
-    100% { transform: translateY(-40px); }
+    100% { transform: translateY(-30px); }
 }
 
 /*--=======card section end======-----*/
@@ -257,4 +257,9 @@ h3 span:nth-child(3){
     .ima{
         font-size: 30px !important;
     }
+    .home-container {
+        margin-top: 40% !important;
+    }
+
+    
 }
